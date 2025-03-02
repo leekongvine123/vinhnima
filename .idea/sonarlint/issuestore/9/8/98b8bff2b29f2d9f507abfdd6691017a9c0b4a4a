@@ -1,0 +1,10 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Çö‘èıÿÿÿÿ
+S
+java:S1128"7Remove this unused import 'jakarta.persistence.Column'.(Ó‰ÙE8ÏèØÎ2
+\
+java:S1128"?Remove this unused import 'jakarta.persistence.GeneratedValue'.(‘ŒÇŒ8ÏèØÎ2
+P
+java:S1128"3Remove this unused import 'jakarta.persistence.Id'.(š¨ô 8‘ÏèØÎ2
+M
+java:S1128"+Remove this unused import 'java.util.UUID'.(ÀãÄ£úÿÿÿÿ8‘ÏèØÎ2
